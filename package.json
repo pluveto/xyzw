@@ -26,7 +26,7 @@
     "@quartz-community/types": "1.0.0",
     "esbuild": "^0.28.2",
     "github-slugger": "^2.0.0",
-    "hast-util-to-html": "^9.0.5",
+    "hast-util-to-html": "^9.0.6",
     "hast-util-to-string": "^3.0.1",
     "mdast-util-to-string": "^4.0.0",
     "pagefind": "^1.5.2",
@@ -37,7 +37,7 @@
     "remark-rehype": "^11.1.2",
     "shiki": "^4.4.3",
     "unified": "^11.0.5",
-    "unist-util-visit": "^5.1.0",
+    "unist-util-visit": "^5.2.0",
     "vfile": "^6.0.3",
     "yaml": "^2.9.1"
   },
